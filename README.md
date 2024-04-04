@@ -1,2 +1,2 @@
-# htm-portfolio
+# html-portfolio
 just hanging around with html from courses
